@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## App Build
+
+![Demo App Android Release](https://github.com/sabbir420/test_flutter_app_github_actions/workflows/Demo%20App%20Android%20Release/badge.svg?branch=main) 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
